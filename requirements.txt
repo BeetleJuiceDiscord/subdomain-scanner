@@ -1,0 +1,5 @@
+requests
+ctypes
+os
+time
+colorama
